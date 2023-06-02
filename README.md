@@ -1,2 +1,2 @@
-# python-pygame-farmland
-Final project for one of the subjects at my university using pygame library. The game is based on "Stardew Valley" and contains many elements and mechanics from it.
+# python-pygame-fishland
+Final project for one of the subjects at my university using pygame library. The game is inspired by "Stardew Valley", in particular the mechanics of fishing.
